@@ -1,2 +1,2 @@
 my first file
-this is my first time using git
+第一次使用git
